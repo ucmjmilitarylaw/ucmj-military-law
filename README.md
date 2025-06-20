@@ -18,3 +18,13 @@ Educational use permitted. Commercial use prohibited without permission.
 ## 🔗 Learn More
 
 Visit [https://ucmjdefense.com](https://ucmjdefense.com) for more resources and representation.
+
+
+## 📚 About the Authors
+[Read about our military lawyers](about.md)
+
+---
+
+## 🏛 About the Authors
+
+Written by two of the **best military defense lawyers** and **best court-martial attorneys**, Michael Waddington and Alexandra González-Waddington have defended thousands of U.S. service members worldwide. [Learn more about them here.](about.md)

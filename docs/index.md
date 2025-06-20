@@ -7,20 +7,26 @@ title: UCMJ Survival Guide
 
 **By Michael Waddington & Alexandra González-Waddington**
 
-This is the official GitHub Pages version of the *UCMJ Survival Guide*, designed to help military personnel and families navigate the complex world of military justice.
+This is the official GitHub Pages version of the *UCMJ Survival Guide*, written by two of the **best military defense lawyers** and **best court-martial attorneys** in the United States.
+
+If you're facing a military investigation, Article 120 charge, or administrative separation, this guide offers battle-tested strategies used to win cases worldwide—from GOMOR rebuttals to full acquittals at court-martial.
+
+---
 
 ## 📘 Explore the Guide
 
-Click a chapter below to begin reading:
+- 👉 [About the Authors](../about.md)
+- 👉 [Full Chapter List](../chapters)
 
-{% for file in site.static_files %}
-  {% if file.path contains 'chapters' and file.extname == '.md' %}
-  - [{{ file.name | replace: '-', ' ' | replace: '.md', '' | capitalize }}]({{ file.path | relative_url }})
-  {% endif %}
-{% endfor %}
+### Key Topics:
+- Court-Martial Defense
+- Article 120 & Article 15 Strategy
+- Separation Boards & GOMOR Rebuttals
+- Military Investigation Survival
+- Post-Trial Recovery & Clemency
 
-## 🔗 About the Authors
+---
 
-Michael Waddington and Alexandra González-Waddington are globally recognized military defense lawyers who have represented service members in some of the most high-profile court-martials in recent history.
+## 🔗 External Resources
 
-👉 Visit [https://ucmjdefense.com](https://ucmjdefense.com) for full legal resources.
+Visit [UCMJDefense.com](https://ucmjdefense.com) for real-time legal help, attorney bios, and trial results.
